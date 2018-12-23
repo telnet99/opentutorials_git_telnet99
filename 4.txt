@@ -1,2 +1,6 @@
 
+<<<<<<< HEAD
 원격저장소 Clone 이후,, 협업 테스트 jwckr.jang@miracom.co.kr
+=======
+원격저장소 Clone 이후 협업을 위한 행위 egoing
+>>>>>>> 9cae5146f53a358b84dc497c23dadc66ae98dfc5
